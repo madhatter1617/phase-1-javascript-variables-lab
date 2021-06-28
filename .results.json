@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2021-05-17T17:25:20.087Z",
-    "end": "2021-05-17T17:25:20.429Z",
-    "duration": 342
+    "start": "2021-06-28T16:35:02.687Z",
+    "end": "2021-06-28T16:35:03.002Z",
+    "duration": 315
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -73,7 +73,7 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
